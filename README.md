@@ -18,7 +18,7 @@ This is a simple Phonebook System that allows an admin to manage contacts stored
 - **Entity Framework Core**
 - **PostgreSQL**
 - **Onion Architecture**
-- **JWT Authentication (if applicable)**
+
 
 ### Frontend (Web)
 - **Angular 16**
@@ -67,11 +67,4 @@ This is a simple Phonebook System that allows an admin to manage contacts stored
 ## Notes
 - Ensure PostgreSQL is running and accessible.
 - Modify API base URL in the Angular project (`environment.ts`) if needed.
-
-## Contact
-For any questions, feel free to reach out.
-
----
-
-This README is designed to be professional and informative for HR review. Let me know if you need any modifications! 🚀
 
