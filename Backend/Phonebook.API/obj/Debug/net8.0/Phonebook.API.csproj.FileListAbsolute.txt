@@ -1,0 +1,345 @@
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\appsettings.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.staticwebassets.endpoints.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.exe
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.deps.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.runtimeconfig.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.API.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.AssemblyReference.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfoInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfo.cs
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.CoreCompileInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\scopedcss\bundle\Phonebook.API.styles.css
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Phonebook.API.props
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Phonebook.API.props
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Phonebook.API.props
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phoneboo.74264192.Up2Date
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\refint\Phonebook.API.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\Phonebook.API.genruntimeconfig.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\obj\Debug\net8.0\ref\Phonebook.API.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\appsettings.Development.json
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\appsettings.json
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.staticwebassets.endpoints.json
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.exe
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.deps.json
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.runtimeconfig.json
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.pdb
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Humanizer.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Npgsql.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.pdb
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+D:\jobs\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.pdb
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.AssemblyReference.cache
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfoInputs.cache
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfo.cs
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.CoreCompileInputs.cache
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cs
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cache
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\scopedcss\bundle\Phonebook.API.styles.css
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Phonebook.API.props
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Phonebook.API.props
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Phonebook.API.props
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phoneboo.74264192.Up2Date
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.dll
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\refint\Phonebook.API.dll
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.pdb
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.genruntimeconfig.cache
+D:\jobs\Backend\Phonebook.API\obj\Debug\net8.0\ref\Phonebook.API.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\appsettings.Development.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\appsettings.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.staticwebassets.endpoints.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.exe
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.deps.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.runtimeconfig.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.API.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Humanizer.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Npgsql.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.CodeDom.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Application.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\bin\Debug\net8.0\Phonebook.Domain.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.AssemblyReference.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfoInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.AssemblyInfo.cs
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.csproj.CoreCompileInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cs
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.MvcApplicationPartsAssemblyInfo.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\scopedcss\bundle\Phonebook.API.styles.css
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.development.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.Phonebook.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Phonebook.API.props
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Phonebook.API.props
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Phonebook.API.props
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.pack.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phoneboo.74264192.Up2Date
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\refint\Phonebook.API.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\Phonebook.API.genruntimeconfig.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.API\obj\Debug\net8.0\ref\Phonebook.API.dll

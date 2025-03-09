@@ -1,0 +1,51 @@
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.deps.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.runtimeconfig.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfo.cs
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phoneboo.F4140CF5.Up2Date
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\refint\Phonebook.Infrastructure.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.genruntimeconfig.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Infrastructure\obj\Debug\net8.0\ref\Phonebook.Infrastructure.dll
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.deps.json
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.runtimeconfig.json
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.pdb
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.AssemblyReference.cache
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfoInputs.cache
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfo.cs
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.CoreCompileInputs.cache
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phoneboo.F4140CF5.Up2Date
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.dll
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\refint\Phonebook.Infrastructure.dll
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.pdb
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.genruntimeconfig.cache
+D:\jobs\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\ref\Phonebook.Infrastructure.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.deps.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.runtimeconfig.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Infrastructure.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\bin\Debug\net8.0\Phonebook.Domain.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.AssemblyReference.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfoInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.AssemblyInfo.cs
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.csproj.CoreCompileInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phoneboo.F4140CF5.Up2Date
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\refint\Phonebook.Infrastructure.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\Phonebook.Infrastructure.genruntimeconfig.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Infrastructure\obj\Debug\net8.0\ref\Phonebook.Infrastructure.dll

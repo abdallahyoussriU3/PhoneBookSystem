@@ -1,0 +1,33 @@
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.deps.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfoInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfo.cs
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\refint\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Domain\obj\Debug\net8.0\ref\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.deps.json
+D:\jobs\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.pdb
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfoInputs.cache
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfo.cs
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.CoreCompileInputs.cache
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\refint\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.pdb
+D:\jobs\Backend\Phonebook.Domain\obj\Debug\net8.0\ref\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.deps.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfoInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfo.cs
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.CoreCompileInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\refint\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Domain\obj\Debug\net8.0\ref\Phonebook.Domain.dll

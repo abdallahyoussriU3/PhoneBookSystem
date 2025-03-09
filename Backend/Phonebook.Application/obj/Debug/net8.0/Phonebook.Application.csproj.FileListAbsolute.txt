@@ -1,0 +1,45 @@
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.deps.json
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.AssemblyReference.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfoInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfo.cs
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.CoreCompileInputs.cache
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phoneboo.813A2DA5.Up2Date
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\refint\Phonebook.Application.dll
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.pdb
+C:\Users\YOUSSRI\source\repos\Project\Phonebook.Application\obj\Debug\net8.0\ref\Phonebook.Application.dll
+D:\jobs\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.deps.json
+D:\jobs\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.dll
+D:\jobs\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.pdb
+D:\jobs\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.dll
+D:\jobs\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.pdb
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.AssemblyReference.cache
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfoInputs.cache
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfo.cs
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.CoreCompileInputs.cache
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phoneboo.813A2DA5.Up2Date
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.dll
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\refint\Phonebook.Application.dll
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.pdb
+D:\jobs\Backend\Phonebook.Application\obj\Debug\net8.0\ref\Phonebook.Application.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.deps.json
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Application.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\bin\Debug\net8.0\Phonebook.Domain.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.AssemblyReference.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfoInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.AssemblyInfo.cs
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.csproj.CoreCompileInputs.cache
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phoneboo.813A2DA5.Up2Date
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\refint\Phonebook.Application.dll
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\Phonebook.Application.pdb
+F:\develop\Real Work\PhoneBook\Backend\Phonebook.Application\obj\Debug\net8.0\ref\Phonebook.Application.dll
